@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This ZIP file contains the supporting files for Lecture 5.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/055eb508eb4748b97eb42f9567553f39_lect_18.zip
+file: /media/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/055eb508eb4748b97eb42f9567553f39_lect_18.zip
 file_type: application/zip
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: lect_18.zip
 uid: 055eb508-eb47-48b9-7eb4-2f9567553f39

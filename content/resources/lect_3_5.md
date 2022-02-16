@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This handout contains notes, graphs and diagrams supporting this lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/7205763216206e817961d01f0cf67793_lect_3_5.pdf
+file: /media/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/7205763216206e817961d01f0cf67793_lect_3_5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect_3_5.pdf
 uid: 72057632-1620-6e81-7961-d01f0cf67793
