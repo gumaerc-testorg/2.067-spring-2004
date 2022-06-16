@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: '13.811 is split into two segments: structural dynamics for the first
+  half of the semester and acoustics for the second half. NOTE: Only the acoustics
+  component is available on this site. The structural dynamics component has not yet
+  been incorporated into OCW.'
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -67,7 +71,7 @@ The Acoustic Wave Equation
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect114))
+({{% resource_link 5be44d58-d1a2-874a-22dc-bb01eb871802 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +90,7 @@ Wavenumber Representation
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_2_9))
+({{% resource_link ec7e0004-0086-721b-57f7-1e534aca60d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +109,7 @@ Spherical Waves from Point Source
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF - 1.2 MB]({{< baseurl >}}/resources/lect_3_5))
+({{% resource_link 72057632-1620-6e81-7961-d01f0cf67793 "PDF - 1.2 MB" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +126,7 @@ Radiation from Baffled Rectangular Piston
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_4_6))
+({{% resource_link 9b445625-1e62-368e-b020-ee03a8b017e2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -137,9 +141,9 @@ Radiation from Planar Sources
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_5_4))  
+({{% resource_link 1a6a081b-f8c5-14c5-a812-db5d121071b2 "PDF" %}})  
   
-Supporting Files ([ZIP]({{< baseurl >}}/resources/lect_18)) (The ZIP file contains: circ.m, circ\_arr.m, dba.m, dbp.m, rect.m, rect\_arr.m, sinc.m, and wavei.m.)
+Supporting Files ({{% resource_link 055eb508-eb47-48b9-7eb4-2f9567553f39 "ZIP" %}}) (The ZIP file contains: circ.m, circ\_arr.m, dba.m, dbp.m, rect.m, rect\_arr.m, sinc.m, and wavei.m.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,9 +158,9 @@ Radiation from Elastic Plates
 Schmidt
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_6_4))  
+({{% resource_link a9d1f565-2312-7ae9-87f8-33b66ba25c14 "PDF" %}})  
   
-Supporting Files ([ZIP]({{< baseurl >}}/resources/lect_19)) (The ZIP file contains: plate.m.)
+Supporting Files ({{% resource_link 2f1f1e87-91d8-e69c-d7ab-fe1bd62f02b9 "ZIP" %}}) (The ZIP file contains: plate.m.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -188,7 +192,7 @@ Spherical Harmonics
 Battle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_7_31))
+({{% resource_link 66bcdda5-3876-d6ad-f82f-7c9796279ca8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -203,7 +207,7 @@ Spherical Multipole Radiation
 Battle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_8_2))
+({{% resource_link 6463b606-a9e9-c7e4-d58b-e5a222f8ad48 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -233,7 +237,7 @@ Cylindrical Waves
 Battle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_10_2))
+({{% resource_link 9df04f47-047a-6598-2cd9-398154943687 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -248,9 +252,9 @@ Helical Waves
 Battle
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/lect_11_5))  
+({{% resource_link f0af0542-974e-75cd-c0d4-5dd653c03a90 "PDF" %}})  
   
-Supporting Files ([ZIP]({{< baseurl >}}/resources/lect_25)) (This ZIP file contains: readme.txt, cylrad.m, dH\_ndx.m, dhndx.m, dipole.m, djndx.m, H\_n.m, hard\_sphere.m, helical.m, hn.m, jn.m, lpoly.m, monopole.m, sharm.m, soft\_sphere.m, Ymn.m, and yn.m.)
+Supporting Files ({{% resource_link dbed214e-bdda-4cfd-a219-09bb549e24d7 "ZIP" %}}) (This ZIP file contains: readme.txt, cylrad.m, dH\_ndx.m, dhndx.m, dipole.m, djndx.m, H\_n.m, hard\_sphere.m, helical.m, hn.m, jn.m, lpoly.m, monopole.m, sharm.m, soft\_sphere.m, Ymn.m, and yn.m.)
 {{< tdclose >}}
 
 {{< trclose >}}
