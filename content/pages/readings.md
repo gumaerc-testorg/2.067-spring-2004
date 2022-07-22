@@ -1,5 +1,14 @@
 ---
 content_type: page
+description: '13.811 is split into two segments: structural dynamics for the first
+  half of the semester and acoustics for the second half. NOTE: Only the acoustics
+  component is available on this site. The structural dynamics component has not yet
+  been incorporated into OCW. The chapters referred to in the table are from the text:
+  Williams, E. G. Fourier Acoustics: Sound Radiation and Nearfield Acoustical Holography.
+  London: Academic Press, 1999. ISBN: 0127539603. (Background Reading: Section 1)'
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 18d429f6-2bb0-3639-2978-53bdb42550ea
 ---

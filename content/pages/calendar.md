@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: '13.811 is split into two segments: structural dynamics for the first
+  half of the semester and acoustics for the second half.  NOTE: Only the acoustics
+  component is available on this site. The structural dynamics component has not yet
+  been incorporated into OCW.'
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 72dd8a48-f5e6-747c-6be1-d88bd158945a
 ---
