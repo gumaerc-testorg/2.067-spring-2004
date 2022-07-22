@@ -5,6 +5,7 @@ file: /courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_3_5.pdf
 uid: 72057632-1620-6e81-7961-d01f0cf67793
 ---
 This handout contains notes, graphs and diagrams supporting this lecture.
-

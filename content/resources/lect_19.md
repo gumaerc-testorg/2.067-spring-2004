@@ -5,6 +5,7 @@ file: /courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-20
 file_type: application/zip
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect_19.zip
 uid: 2f1f1e87-91d8-e69c-d7ab-fe1bd62f02b9
 ---
 This ZIP file contains the supporting files for Lecture 6.
-

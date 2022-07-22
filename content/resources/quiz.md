@@ -5,6 +5,7 @@ file: /courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: quiz.pdf
 uid: bcbbc45e-d0cf-07bd-8ee1-dcc5954dbbd8
 ---
 Quiz questions.
-
