@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to quiz problems.
-file: /courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/92b922ef5fa16f1efbd4857984fd0f68_quiz_soln.pdf
+file: /ol-ocw-studio-app/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/92b922ef5fa16f1efbd4857984fd0f68_quiz_soln.pdf
 file_size: 104452
 file_type: application/pdf
 learning_resource_types:
