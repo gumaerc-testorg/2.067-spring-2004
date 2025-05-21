@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This ZIP file contains the supporting files for Lecture 11.
-file: /ol-ocw-studio-app/courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/dbed214ebdda4cfda21909bb549e24d7_lect_25.zip
+file: /courses/2-067-advanced-structural-dynamics-and-acoustics-13-811-spring-2004/dbed214ebdda4cfda21909bb549e24d7_lect_25.zip
 file_size: 8328
 file_type: application/zip
 learning_resource_types:
